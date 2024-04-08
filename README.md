@@ -2,14 +2,27 @@
 # Prodigy_CS_Task2
 Encrypting and Decrypting an Image using `PIL library` by swapping **pixel values.**
 
-## How to Use:
-> Run using [Jupyter NoteBook](https://jupyter.org/) or any Python IDE.  
 ### Libraries Used:
 + `PIL`
 + `Requests`
 + `IO`
 
+## How to Use:
+> Run using [Jupyter NoteBook](https://jupyter.org/) or any Python IDE.  
 
+### `For V1.0`
+
++ **Enter Local Path of the Image File:**
+> e.g C:\Users\[Username]\Downloads\[Image-Filename].[Extension]
++ Format
+> C:\Users\Downloads\test.png
+
+### `For V1.1`
+
++ **Enter URL of the Image File:**
+> e.g Direct Link/URL
++ Format
+> https://static.desygner.com/wp-content/uploads/sites/13/2022/05/04141642/Free-Stock-Photos-01.jpg
 
 ## Installation:
 
