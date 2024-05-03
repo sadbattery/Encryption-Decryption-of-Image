@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&height=300&color=gradient&customColorList=0,2,2,5,4,6,8,10,12,14,16,20,30&text=Encryption%20Decryption%20of%20Image&fontSize=50&fontAlign=54&rotate=19&fontAlignY=45&textBg=false&animation=twinkling)
 # Prodigy_CS_Task2
+<div><p align="left"> <img src="https://komarev.com/ghpvc/?username=sadbattery&label=PageViews:"/></p></div>
 Encrypting and Decrypting an Image using `PIL library` by swapping **pixel values.**
 
 ### Libraries Used:
